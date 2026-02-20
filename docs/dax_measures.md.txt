@@ -1,0 +1,15 @@
+# DAX Measures (Road Accidents)
+
+## Total Accidents
+- Definition: Count of accidents
+- Example: Total Accidents = COUNT(Road[accident_id])
+
+## Accidents by Severity
+- Definition: Count filtered by severity category
+
+## Severity Rate (%)
+- Definition: Severity count / Total accidents
+- Example: Rate = DIVIDE([Fatal Accidents], [Total Accidents])
+
+## Trend Measures (optional)
+- Accidents by Month, Accidents by Day of Week (if Date table exists)

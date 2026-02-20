@@ -1,0 +1,14 @@
+# Data Dictionary (Road Accidents Dataset)
+
+| Column | Description |
+|-------|-------------|
+| accident_id | Unique accident identifier |
+| date | Accident date |
+| time | Accident time (if available) |
+| location / area | Location/region/city |
+| severity | Accident severity (fatal/serious/slight) |
+| road_type | Road type (if available) |
+| weather | Weather condition (if available) |
+| light_condition | Lighting (day/night) (if available) |
+| vehicles_involved | Number of vehicles (if available) |
+| casualties | Number of casualties (if available) |
