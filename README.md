@@ -40,7 +40,7 @@ To run the dashboard locally, download the dataset separately and update the fil
 
 ## 🖼 Dashboard Screenshots
 Example:
-![Road Accidents Dashboard](01_overview.jpg)
+![Road Accidents Dashboard](01_overview.png)
 
 ## ▶️ How to Open and Run
 1. Download this repository  
@@ -53,6 +53,7 @@ Example:
 **John Okoye**  
 
 GitHub: https://github.com/Kennywhite2
+
 
 
 
