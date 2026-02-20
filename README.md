@@ -27,6 +27,11 @@ Typical KPIs included:
 - **Excel / CSV** as the data source
 - **Data Modeling** for consistent filtering
 
+## 🗂 Dataset
+The original dataset file is not included in this repository because it is too large to upload via GitHub.
+To run the dashboard locally, download the dataset separately and update the file path in Power BI:
+**Transform data → Data source settings → Change source**.
+
 ## 🗂 Files in This Repository
 - `dashboard/Road_Accidents_Dashboard.pbix` — Power BI report file  
 - `dashboard/screenshots/` — dashboard screenshots  
@@ -46,4 +51,5 @@ Example:
 
 ## 👤 Author
 **John Okoye**  
+
 GitHub: https://github.com/Kennywhite2
