@@ -35,7 +35,7 @@ Typical KPIs included:
 
 ## 🖼 Dashboard Screenshots
 Example:
-![Road Accidents Dashboard](dashboard/screenshots/Road accident analysis overview.png)
+![Road Accidents Dashboard](road_accident_analysis.jpg)
 
 ## ▶️ How to Open and Run
 1. Download this repository  
@@ -47,3 +47,4 @@ Example:
 ## 👤 Author
 **John Okoye**  
 GitHub: https://github.com/Kennywhite2
+
